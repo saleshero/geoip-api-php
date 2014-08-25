@@ -1,0 +1,17 @@
+{
+    "name": "geoip/geoip",
+    "description": "MaxMind GeoIP PHP API",
+    "keywords": [ "geoip", "geolocation", "maxmind" ],
+    "type": "library",
+    "license": "LGPL 2.1+",
+    "authors": [
+    ],
+    "autoload": {
+        "files": [
+            "src/geoip.inc.php",
+	    "src/geoipregionvars.php",
+            "src/geoipcity.inc.php",
+            "src/timezone.php"
+        ]
+    }
+}
