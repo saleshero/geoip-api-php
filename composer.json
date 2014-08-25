@@ -1,5 +1,5 @@
 {
-    "name": "geoip/geoip",
+    "name": "saleshero/geoip-api-php",
     "description": "MaxMind GeoIP PHP API",
     "keywords": [ "geoip", "geolocation", "maxmind" ],
     "type": "library",
